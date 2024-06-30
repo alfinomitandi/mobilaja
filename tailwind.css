@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.navbar-fixed {
-  position: fixed;
-  z-index: 9999;
-  scroll-behavior: smooth;
-}
